@@ -1,0 +1,2 @@
+﻿  delete.cpp
+C:\Users\ryan\Desktop\school\USC Spring 2020\CS103\PractiseDataStructure\PractiseLinkedlist\DeleteNth\DeleteNth\delete.cpp(20,6): error C2065: 'n': undeclared identifier
